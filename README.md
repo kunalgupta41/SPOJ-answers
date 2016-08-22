@@ -1,2 +1,2 @@
-# SPOJ-answers
-Contains SPOJ answers
+# SPOJ-solutions
+Contains SPOJ solutions
